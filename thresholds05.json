@@ -1,0 +1,6857 @@
+﻿{
+	"network": {
+		"items": [
+			{
+				"id": 19,
+				"label": "adam smith",
+				"x": -0.3867,
+				"y": 0.7510,
+				"cluster": 3,
+				"weights": {
+					"Links": 10.0000,
+					"Total link strength": 13.0000,
+					"Occurrences": 11.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2018.9091,
+					"Avg. citations": 3.0909,
+					"Avg. norm. citations": 1.0049
+				}
+			},
+			{
+				"id": 46,
+				"label": "alertness",
+				"x": 0.3956,
+				"y": -0.7322,
+				"cluster": 3,
+				"weights": {
+					"Links": 9.0000,
+					"Total link strength": 9.0000,
+					"Occurrences": 5.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2013.6000,
+					"Avg. citations": 29.6000,
+					"Avg. norm. citations": 3.6942
+				}
+			},
+			{
+				"id": 99,
+				"label": "austrian",
+				"x": 0.8662,
+				"y": 0.2802,
+				"cluster": 1,
+				"weights": {
+					"Links": 10.0000,
+					"Total link strength": 19.0000,
+					"Occurrences": 8.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2014.3750,
+					"Avg. citations": 11.7500,
+					"Avg. norm. citations": 2.1715
+				}
+			},
+			{
+				"id": 103,
+				"label": "austrian business cycle theory",
+				"x": 0.7913,
+				"y": -0.2697,
+				"cluster": 1,
+				"weights": {
+					"Links": 17.0000,
+					"Total link strength": 26.0000,
+					"Occurrences": 30.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2014.1000,
+					"Avg. citations": 7.8000,
+					"Avg. norm. citations": 1.5195
+				}
+			},
+			{
+				"id": 108,
+				"label": "austrian economics",
+				"x": -0.1980,
+				"y": 0.0713,
+				"cluster": 7,
+				"weights": {
+					"Links": 83.0000,
+					"Total link strength": 190.0000,
+					"Occurrences": 108.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2014.6759,
+					"Avg. citations": 6.4444,
+					"Avg. norm. citations": 1.2034
+				}
+			},
+			{
+				"id": 116,
+				"label": "austrian school",
+				"x": 0.3304,
+				"y": 0.4728,
+				"cluster": 7,
+				"weights": {
+					"Links": 35.0000,
+					"Total link strength": 60.0000,
+					"Occurrences": 37.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2015.1081,
+					"Avg. citations": 4.2432,
+					"Avg. norm. citations": 0.7693
+				}
+			},
+			{
+				"id": 117,
+				"label": "austrian school of economics",
+				"x": 0.2771,
+				"y": 0.3291,
+				"cluster": 4,
+				"weights": {
+					"Links": 13.0000,
+					"Total link strength": 14.0000,
+					"Occurrences": 9.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.7778,
+					"Avg. citations": 4.2222,
+					"Avg. norm. citations": 0.5156
+				}
+			},
+			{
+				"id": 130,
+				"label": "average period of production",
+				"x": 0.6059,
+				"y": -0.2264,
+				"cluster": 8,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 5.0000,
+					"Occurrences": 5.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.2000,
+					"Avg. citations": 9.0000,
+					"Avg. norm. citations": 2.6292
+				}
+			},
+			{
+				"id": 143,
+				"label": "b52",
+				"x": -0.8508,
+				"y": -0.1634,
+				"cluster": 8,
+				"weights": {
+					"Links": 14.0000,
+					"Total link strength": 19.0000,
+					"Occurrences": 5.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2021.6000,
+					"Avg. citations": 0.4000,
+					"Avg. norm. citations": 0.9474
+				}
+			},
+			{
+				"id": 144,
+				"label": "b53",
+				"x": -0.1647,
+				"y": -0.1465,
+				"cluster": 8,
+				"weights": {
+					"Links": 35.0000,
+					"Total link strength": 48.0000,
+					"Occurrences": 20.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2020.1500,
+					"Avg. citations": 2.0000,
+					"Avg. norm. citations": 1.0918
+				}
+			},
+			{
+				"id": 161,
+				"label": "behavioral economics",
+				"x": -0.1896,
+				"y": 0.4870,
+				"cluster": 3,
+				"weights": {
+					"Links": 12.0000,
+					"Total link strength": 13.0000,
+					"Occurrences": 7.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.7143,
+					"Avg. citations": 8.4286,
+					"Avg. norm. citations": 1.6635
+				}
+			},
+			{
+				"id": 197,
+				"label": "buchanan",
+				"x": -0.6833,
+				"y": 0.3257,
+				"cluster": 5,
+				"weights": {
+					"Links": 17.0000,
+					"Total link strength": 21.0000,
+					"Occurrences": 6.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2014.5000,
+					"Avg. citations": 6.8333,
+					"Avg. norm. citations": 1.6593
+				}
+			},
+			{
+				"id": 202,
+				"label": "business cycle",
+				"x": 0.9136,
+				"y": 0.1142,
+				"cluster": 1,
+				"weights": {
+					"Links": 31.0000,
+					"Total link strength": 62.0000,
+					"Occurrences": 36.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2014.2778,
+					"Avg. citations": 5.8889,
+					"Avg. norm. citations": 1.1058
+				}
+			},
+			{
+				"id": 204,
+				"label": "business cycles",
+				"x": 0.7739,
+				"y": -0.0699,
+				"cluster": 1,
+				"weights": {
+					"Links": 34.0000,
+					"Total link strength": 48.0000,
+					"Occurrences": 26.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2013.8077,
+					"Avg. citations": 5.0000,
+					"Avg. norm. citations": 0.8307
+				}
+			},
+			{
+				"id": 212,
+				"label": "calculation",
+				"x": 0.2021,
+				"y": -0.1196,
+				"cluster": 3,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 6.0000,
+					"Occurrences": 6.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2011.3333,
+					"Avg. citations": 4.3333,
+					"Avg. norm. citations": 1.4589
+				}
+			},
+			{
+				"id": 222,
+				"label": "capital",
+				"x": 0.3993,
+				"y": -0.1952,
+				"cluster": 8,
+				"weights": {
+					"Links": 22.0000,
+					"Total link strength": 26.0000,
+					"Occurrences": 14.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2015.6429,
+					"Avg. citations": 3.0000,
+					"Avg. norm. citations": 0.6958
+				}
+			},
+			{
+				"id": 232,
+				"label": "capital structure",
+				"x": 0.5212,
+				"y": -0.3014,
+				"cluster": 1,
+				"weights": {
+					"Links": 9.0000,
+					"Total link strength": 15.0000,
+					"Occurrences": 8.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2013.5000,
+					"Avg. citations": 8.1250,
+					"Avg. norm. citations": 1.5437
+				}
+			},
+			{
+				"id": 233,
+				"label": "capital theory",
+				"x": 0.9871,
+				"y": -0.0355,
+				"cluster": 1,
+				"weights": {
+					"Links": 18.0000,
+					"Total link strength": 27.0000,
+					"Occurrences": 13.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.5385,
+					"Avg. citations": 2.2308,
+					"Avg. norm. citations": 0.6166
+				}
+			},
+			{
+				"id": 237,
+				"label": "capitalism",
+				"x": -0.5396,
+				"y": -0.3590,
+				"cluster": 2,
+				"weights": {
+					"Links": 10.0000,
+					"Total link strength": 10.0000,
+					"Occurrences": 5.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2019.0000,
+					"Avg. citations": 0.6000,
+					"Avg. norm. citations": 0.4416
+				}
+			},
+			{
+				"id": 239,
+				"label": "carl menger",
+				"x": -0.1398,
+				"y": 0.4190,
+				"cluster": 3,
+				"weights": {
+					"Links": 16.0000,
+					"Total link strength": 21.0000,
+					"Occurrences": 12.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2021.1667,
+					"Avg. citations": 1.9167,
+					"Avg. norm. citations": 1.0225
+				}
+			},
+			{
+				"id": 246,
+				"label": "catallactics",
+				"x": 0.1413,
+				"y": 0.8236,
+				"cluster": 7,
+				"weights": {
+					"Links": 13.0000,
+					"Total link strength": 21.0000,
+					"Occurrences": 5.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2015.0000,
+					"Avg. citations": 1.4000,
+					"Avg. norm. citations": 0.3138
+				}
+			},
+			{
+				"id": 258,
+				"label": "central banking",
+				"x": 1.2185,
+				"y": -0.3828,
+				"cluster": 1,
+				"weights": {
+					"Links": 19.0000,
+					"Total link strength": 37.0000,
+					"Occurrences": 11.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2013.9091,
+					"Avg. citations": 6.3636,
+					"Avg. norm. citations": 1.1574
+				}
+			},
+			{
+				"id": 262,
+				"label": "central planning",
+				"x": 0.1493,
+				"y": -0.5985,
+				"cluster": 3,
+				"weights": {
+					"Links": 5.0000,
+					"Total link strength": 6.0000,
+					"Occurrences": 5.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2011.6000,
+					"Avg. citations": 8.2000,
+					"Avg. norm. citations": 1.0840
+				}
+			},
+			{
+				"id": 276,
+				"label": "choice",
+				"x": -0.4425,
+				"y": 0.6489,
+				"cluster": 5,
+				"weights": {
+					"Links": 8.0000,
+					"Total link strength": 9.0000,
+					"Occurrences": 5.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2015.0000,
+					"Avg. citations": 2.2000,
+					"Avg. norm. citations": 0.4729
+				}
+			},
+			{
+				"id": 293,
+				"label": "classical liberalism",
+				"x": -1.1538,
+				"y": -0.1099,
+				"cluster": 5,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 6.0000,
+					"Occurrences": 5.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.0000,
+					"Avg. citations": 1.2000,
+					"Avg. norm. citations": 0.1515
+				}
+			},
+			{
+				"id": 308,
+				"label": "coercion",
+				"x": 0.3597,
+				"y": 0.6084,
+				"cluster": 7,
+				"weights": {
+					"Links": 7.0000,
+					"Total link strength": 10.0000,
+					"Occurrences": 5.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2018.4000,
+					"Avg. citations": 1.4000,
+					"Avg. norm. citations": 0.3760
+				}
+			},
+			{
+				"id": 330,
+				"label": "common law",
+				"x": 0.0094,
+				"y": -0.0022,
+				"cluster": 5,
+				"weights": {
+					"Links": 7.0000,
+					"Total link strength": 7.0000,
+					"Occurrences": 5.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2012.6000,
+					"Avg. citations": 1.4000,
+					"Avg. norm. citations": 0.3368
+				}
+			},
+			{
+				"id": 342,
+				"label": "competition",
+				"x": -0.3192,
+				"y": -0.3018,
+				"cluster": 4,
+				"weights": {
+					"Links": 10.0000,
+					"Total link strength": 12.0000,
+					"Occurrences": 11.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2013.3636,
+					"Avg. citations": 5.6364,
+					"Avg. norm. citations": 0.8314
+				}
+			},
+			{
+				"id": 346,
+				"label": "complexity",
+				"x": -0.4189,
+				"y": -0.4511,
+				"cluster": 2,
+				"weights": {
+					"Links": 16.0000,
+					"Total link strength": 23.0000,
+					"Occurrences": 12.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.9167,
+					"Avg. citations": 9.5000,
+					"Avg. norm. citations": 2.0845
+				}
+			},
+			{
+				"id": 369,
+				"label": "constitutional political economy",
+				"x": -0.2914,
+				"y": -0.0262,
+				"cluster": 8,
+				"weights": {
+					"Links": 7.0000,
+					"Total link strength": 8.0000,
+					"Occurrences": 5.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2014.2000,
+					"Avg. citations": 5.8000,
+					"Avg. norm. citations": 1.1106
+				}
+			},
+			{
+				"id": 391,
+				"label": "coordination",
+				"x": -0.6666,
+				"y": 0.2337,
+				"cluster": 6,
+				"weights": {
+					"Links": 8.0000,
+					"Total link strength": 8.0000,
+					"Occurrences": 5.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.2000,
+					"Avg. citations": 4.2000,
+					"Avg. norm. citations": 0.7612
+				}
+			},
+			{
+				"id": 416,
+				"label": "creative destruction",
+				"x": -0.6071,
+				"y": -0.8837,
+				"cluster": 2,
+				"weights": {
+					"Links": 5.0000,
+					"Total link strength": 8.0000,
+					"Occurrences": 5.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.4000,
+					"Avg. citations": 26.8000,
+					"Avg. norm. citations": 2.8828
+				}
+			},
+			{
+				"id": 426,
+				"label": "credit expansion",
+				"x": 1.1840,
+				"y": -0.4600,
+				"cluster": 1,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 13.0000,
+					"Occurrences": 6.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2012.1667,
+					"Avg. citations": 8.0000,
+					"Avg. norm. citations": 1.1580
+				}
+			},
+			{
+				"id": 444,
+				"label": "culture",
+				"x": -0.6289,
+				"y": 0.3912,
+				"cluster": 6,
+				"weights": {
+					"Links": 18.0000,
+					"Total link strength": 21.0000,
+					"Occurrences": 9.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2010.7778,
+					"Avg. citations": 16.7778,
+					"Avg. norm. citations": 1.5050
+				}
+			},
+			{
+				"id": 478,
+				"label": "democracy",
+				"x": -0.2691,
+				"y": 0.2341,
+				"cluster": 5,
+				"weights": {
+					"Links": 11.0000,
+					"Total link strength": 16.0000,
+					"Occurrences": 14.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2012.7857,
+					"Avg. citations": 12.2143,
+					"Avg. norm. citations": 1.2613
+				}
+			},
+			{
+				"id": 496,
+				"label": "development",
+				"x": -0.1724,
+				"y": -0.2465,
+				"cluster": 5,
+				"weights": {
+					"Links": 14.0000,
+					"Total link strength": 16.0000,
+					"Occurrences": 10.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.3000,
+					"Avg. citations": 8.8000,
+					"Avg. norm. citations": 1.9401
+				}
+			},
+			{
+				"id": 542,
+				"label": "e32",
+				"x": 0.6686,
+				"y": -0.0997,
+				"cluster": 8,
+				"weights": {
+					"Links": 7.0000,
+					"Total link strength": 8.0000,
+					"Occurrences": 5.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2019.6000,
+					"Avg. citations": 6.0000,
+					"Avg. norm. citations": 1.6875
+				}
+			},
+			{
+				"id": 558,
+				"label": "economic calculation",
+				"x": 0.2392,
+				"y": -0.5519,
+				"cluster": 3,
+				"weights": {
+					"Links": 22.0000,
+					"Total link strength": 28.0000,
+					"Occurrences": 16.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2014.0625,
+					"Avg. citations": 7.5000,
+					"Avg. norm. citations": 1.7899
+				}
+			},
+			{
+				"id": 561,
+				"label": "economic development",
+				"x": -0.2875,
+				"y": -0.7445,
+				"cluster": 2,
+				"weights": {
+					"Links": 15.0000,
+					"Total link strength": 23.0000,
+					"Occurrences": 12.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.5000,
+					"Avg. citations": 11.0833,
+					"Avg. norm. citations": 2.2258
+				}
+			},
+			{
+				"id": 567,
+				"label": "economic freedom",
+				"x": -0.5219,
+				"y": -0.9457,
+				"cluster": 2,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 7.0000,
+					"Occurrences": 5.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2011.8000,
+					"Avg. citations": 31.4000,
+					"Avg. norm. citations": 3.3516
+				}
+			},
+			{
+				"id": 569,
+				"label": "economic growth",
+				"x": 0.2335,
+				"y": -0.2432,
+				"cluster": 3,
+				"weights": {
+					"Links": 27.0000,
+					"Total link strength": 31.0000,
+					"Occurrences": 18.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2013.2222,
+					"Avg. citations": 10.7778,
+					"Avg. norm. citations": 1.3373
+				}
+			},
+			{
+				"id": 571,
+				"label": "economic history",
+				"x": 0.4384,
+				"y": 0.1667,
+				"cluster": 3,
+				"weights": {
+					"Links": 9.0000,
+					"Total link strength": 9.0000,
+					"Occurrences": 5.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2014.4000,
+					"Avg. citations": 2.8000,
+					"Avg. norm. citations": 0.6527
+				}
+			},
+			{
+				"id": 585,
+				"label": "economic sociology",
+				"x": -0.8129,
+				"y": 0.8264,
+				"cluster": 6,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 7.0000,
+					"Occurrences": 5.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2008.4000,
+					"Avg. citations": 10.0000,
+					"Avg. norm. citations": 1.2911
+				}
+			},
+			{
+				"id": 589,
+				"label": "economics",
+				"x": 0.5527,
+				"y": 0.9571,
+				"cluster": 7,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 7.0000,
+					"Occurrences": 5.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.2000,
+					"Avg. citations": 0.6000,
+					"Avg. norm. citations": 0.1044
+				}
+			},
+			{
+				"id": 620,
+				"label": "emergence",
+				"x": -0.5138,
+				"y": -0.2576,
+				"cluster": 2,
+				"weights": {
+					"Links": 13.0000,
+					"Total link strength": 16.0000,
+					"Occurrences": 10.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2012.7000,
+					"Avg. citations": 12.8000,
+					"Avg. norm. citations": 1.6964
+				}
+			},
+			{
+				"id": 638,
+				"label": "entangled political economy",
+				"x": -0.4217,
+				"y": 0.8807,
+				"cluster": 3,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Occurrences": 5.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2014.4000,
+					"Avg. citations": 9.0000,
+					"Avg. norm. citations": 1.9752
+				}
+			},
+			{
+				"id": 641,
+				"label": "entrepreneur",
+				"x": 0.3686,
+				"y": -0.4220,
+				"cluster": 3,
+				"weights": {
+					"Links": 12.0000,
+					"Total link strength": 15.0000,
+					"Occurrences": 10.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2011.3000,
+					"Avg. citations": 18.1000,
+					"Avg. norm. citations": 2.7225
+				}
+			},
+			{
+				"id": 649,
+				"label": "entrepreneurship",
+				"x": -0.3206,
+				"y": -0.4644,
+				"cluster": 2,
+				"weights": {
+					"Links": 50.0000,
+					"Total link strength": 121.0000,
+					"Occurrences": 75.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2014.1867,
+					"Avg. citations": 14.5600,
+					"Avg. norm. citations": 2.0983
+				}
+			},
+			{
+				"id": 667,
+				"label": "equilibrium",
+				"x": -0.4784,
+				"y": -0.0778,
+				"cluster": 6,
+				"weights": {
+					"Links": 12.0000,
+					"Total link strength": 15.0000,
+					"Occurrences": 10.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2012.1000,
+					"Avg. citations": 16.7000,
+					"Avg. norm. citations": 1.3828
+				}
+			},
+			{
+				"id": 675,
+				"label": "ethics",
+				"x": -0.5425,
+				"y": 0.2920,
+				"cluster": 5,
+				"weights": {
+					"Links": 23.0000,
+					"Total link strength": 27.0000,
+					"Occurrences": 8.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.6250,
+					"Avg. citations": 1.8750,
+					"Avg. norm. citations": 0.8452
+				}
+			},
+			{
+				"id": 696,
+				"label": "exchange",
+				"x": 0.0604,
+				"y": 0.3849,
+				"cluster": 4,
+				"weights": {
+					"Links": 10.0000,
+					"Total link strength": 10.0000,
+					"Occurrences": 5.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2009.6000,
+					"Avg. citations": 4.2000,
+					"Avg. norm. citations": 0.4426
+				}
+			},
+			{
+				"id": 702,
+				"label": "expectations",
+				"x": -0.3597,
+				"y": 0.1537,
+				"cluster": 6,
+				"weights": {
+					"Links": 13.0000,
+					"Total link strength": 15.0000,
+					"Occurrences": 7.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.1429,
+					"Avg. citations": 1.7143,
+					"Avg. norm. citations": 0.3958
+				}
+			},
+			{
+				"id": 715,
+				"label": "f. a. hayek",
+				"x": -0.0973,
+				"y": 0.1579,
+				"cluster": 5,
+				"weights": {
+					"Links": 18.0000,
+					"Total link strength": 21.0000,
+					"Occurrences": 10.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2014.4000,
+					"Avg. citations": 6.5000,
+					"Avg. norm. citations": 1.3309
+				}
+			},
+			{
+				"id": 719,
+				"label": "f.a. hayek",
+				"x": 0.0282,
+				"y": 0.6587,
+				"cluster": 7,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 6.0000,
+					"Occurrences": 7.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2015.0000,
+					"Avg. citations": 3.4286,
+					"Avg. norm. citations": 0.7626
+				}
+			},
+			{
+				"id": 730,
+				"label": "federal reserve",
+				"x": 0.3643,
+				"y": -0.0930,
+				"cluster": 4,
+				"weights": {
+					"Links": 14.0000,
+					"Total link strength": 17.0000,
+					"Occurrences": 9.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2015.8889,
+					"Avg. citations": 5.4444,
+					"Avg. norm. citations": 1.2745
+				}
+			},
+			{
+				"id": 742,
+				"label": "financial crisis",
+				"x": 0.3448,
+				"y": 0.3842,
+				"cluster": 1,
+				"weights": {
+					"Links": 12.0000,
+					"Total link strength": 15.0000,
+					"Occurrences": 9.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2012.3333,
+					"Avg. citations": 8.6667,
+					"Avg. norm. citations": 1.3515
+				}
+			},
+			{
+				"id": 778,
+				"label": "free banking",
+				"x": 1.0855,
+				"y": -0.4958,
+				"cluster": 1,
+				"weights": {
+					"Links": 10.0000,
+					"Total link strength": 25.0000,
+					"Occurrences": 13.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2013.2308,
+					"Avg. citations": 6.2308,
+					"Avg. norm. citations": 1.0372
+				}
+			},
+			{
+				"id": 794,
+				"label": "friedrich hayek",
+				"x": -0.0111,
+				"y": 0.1661,
+				"cluster": 3,
+				"weights": {
+					"Links": 10.0000,
+					"Total link strength": 10.0000,
+					"Occurrences": 7.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.4286,
+					"Avg. citations": 1.0000,
+					"Avg. norm. citations": 0.1924
+				}
+			},
+			{
+				"id": 813,
+				"label": "general equilibrium",
+				"x": 0.1456,
+				"y": -0.2062,
+				"cluster": 4,
+				"weights": {
+					"Links": 8.0000,
+					"Total link strength": 8.0000,
+					"Occurrences": 5.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2014.2000,
+					"Avg. citations": 5.2000,
+					"Avg. norm. citations": 0.9335
+				}
+			},
+			{
+				"id": 836,
+				"label": "governance",
+				"x": -0.9573,
+				"y": -0.2181,
+				"cluster": 5,
+				"weights": {
+					"Links": 7.0000,
+					"Total link strength": 9.0000,
+					"Occurrences": 7.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2018.7143,
+					"Avg. citations": 1.1429,
+					"Avg. norm. citations": 0.4771
+				}
+			},
+			{
+				"id": 844,
+				"label": "great depression",
+				"x": 0.7353,
+				"y": 0.7161,
+				"cluster": 7,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 5.0000,
+					"Occurrences": 7.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2011.1429,
+					"Avg. citations": 2.4286,
+					"Avg. norm. citations": 0.2784
+				}
+			},
+			{
+				"id": 877,
+				"label": "hayek",
+				"x": 0.1422,
+				"y": -0.0191,
+				"cluster": 4,
+				"weights": {
+					"Links": 43.0000,
+					"Total link strength": 73.0000,
+					"Occurrences": 46.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2014.0652,
+					"Avg. citations": 5.0870,
+					"Avg. norm. citations": 1.0357
+				}
+			},
+			{
+				"id": 890,
+				"label": "hermeneutics",
+				"x": -0.5084,
+				"y": 0.4359,
+				"cluster": 6,
+				"weights": {
+					"Links": 17.0000,
+					"Total link strength": 20.0000,
+					"Occurrences": 10.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2014.3000,
+					"Avg. citations": 17.4000,
+					"Avg. norm. citations": 2.5547
+				}
+			},
+			{
+				"id": 891,
+				"label": "heterodox economics",
+				"x": 0.3508,
+				"y": 0.8653,
+				"cluster": 7,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 11.0000,
+					"Occurrences": 5.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2019.0000,
+					"Avg. citations": 1.4000,
+					"Avg. norm. citations": 0.3498
+				}
+			},
+			{
+				"id": 909,
+				"label": "history of economic thought",
+				"x": 0.0975,
+				"y": 0.4798,
+				"cluster": 4,
+				"weights": {
+					"Links": 17.0000,
+					"Total link strength": 23.0000,
+					"Occurrences": 13.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.3846,
+					"Avg. citations": 1.8462,
+					"Avg. norm. citations": 0.4249
+				}
+			},
+			{
+				"id": 916,
+				"label": "history of thought",
+				"x": 0.5150,
+				"y": 0.6850,
+				"cluster": 7,
+				"weights": {
+					"Links": 12.0000,
+					"Total link strength": 17.0000,
+					"Occurrences": 7.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.0000,
+					"Avg. citations": 1.5714,
+					"Avg. norm. citations": 0.3038
+				}
+			},
+			{
+				"id": 979,
+				"label": "individualism",
+				"x": -0.6384,
+				"y": -0.0788,
+				"cluster": 2,
+				"weights": {
+					"Links": 11.0000,
+					"Total link strength": 11.0000,
+					"Occurrences": 5.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2018.2000,
+					"Avg. citations": 1.8000,
+					"Avg. norm. citations": 0.2652
+				}
+			},
+			{
+				"id": 992,
+				"label": "inflation",
+				"x": 0.6417,
+				"y": 0.1439,
+				"cluster": 4,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 9.0000,
+					"Occurrences": 8.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2013.2500,
+					"Avg. citations": 9.6250,
+					"Avg. norm. citations": 1.1234
+				}
+			},
+			{
+				"id": 996,
+				"label": "information",
+				"x": -0.0585,
+				"y": -0.6179,
+				"cluster": 4,
+				"weights": {
+					"Links": 7.0000,
+					"Total link strength": 10.0000,
+					"Occurrences": 6.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2011.1667,
+					"Avg. citations": 25.0000,
+					"Avg. norm. citations": 1.9581
+				}
+			},
+			{
+				"id": 1000,
+				"label": "innovation",
+				"x": -0.5385,
+				"y": -0.5678,
+				"cluster": 2,
+				"weights": {
+					"Links": 23.0000,
+					"Total link strength": 43.0000,
+					"Occurrences": 20.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.8500,
+					"Avg. citations": 3.4500,
+					"Avg. norm. citations": 1.3961
+				}
+			},
+			{
+				"id": 1009,
+				"label": "institutional analysis",
+				"x": -0.9192,
+				"y": -0.0853,
+				"cluster": 8,
+				"weights": {
+					"Links": 7.0000,
+					"Total link strength": 10.0000,
+					"Occurrences": 7.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2012.5714,
+					"Avg. citations": 8.1429,
+					"Avg. norm. citations": 0.4687
+				}
+			},
+			{
+				"id": 1021,
+				"label": "institutions",
+				"x": -0.5613,
+				"y": -0.1429,
+				"cluster": 2,
+				"weights": {
+					"Links": 48.0000,
+					"Total link strength": 80.0000,
+					"Occurrences": 39.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2015.6410,
+					"Avg. citations": 7.1282,
+					"Avg. norm. citations": 1.4159
+				}
+			},
+			{
+				"id": 1032,
+				"label": "interest",
+				"x": 1.2756,
+				"y": 0.1140,
+				"cluster": 1,
+				"weights": {
+					"Links": 11.0000,
+					"Total link strength": 18.0000,
+					"Occurrences": 7.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.2857,
+					"Avg. citations": 2.2857,
+					"Avg. norm. citations": 0.6008
+				}
+			},
+			{
+				"id": 1035,
+				"label": "interest rates",
+				"x": 1.4276,
+				"y": -0.1614,
+				"cluster": 1,
+				"weights": {
+					"Links": 13.0000,
+					"Total link strength": 19.0000,
+					"Occurrences": 6.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2013.3333,
+					"Avg. citations": 4.5000,
+					"Avg. norm. citations": 0.8409
+				}
+			},
+			{
+				"id": 1061,
+				"label": "interventionism",
+				"x": -0.5981,
+				"y": -0.7759,
+				"cluster": 2,
+				"weights": {
+					"Links": 7.0000,
+					"Total link strength": 7.0000,
+					"Occurrences": 7.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2018.2857,
+					"Avg. citations": 3.2857,
+					"Avg. norm. citations": 0.5745
+				}
+			},
+			{
+				"id": 1067,
+				"label": "investment",
+				"x": 0.7903,
+				"y": 0.2943,
+				"cluster": 1,
+				"weights": {
+					"Links": 10.0000,
+					"Total link strength": 15.0000,
+					"Occurrences": 6.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2014.3333,
+					"Avg. citations": 3.6667,
+					"Avg. norm. citations": 0.8197
+				}
+			},
+			{
+				"id": 1084,
+				"label": "james buchanan",
+				"x": -0.6552,
+				"y": 0.1183,
+				"cluster": 5,
+				"weights": {
+					"Links": 11.0000,
+					"Total link strength": 12.0000,
+					"Occurrences": 5.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.4000,
+					"Avg. citations": 4.2000,
+					"Avg. norm. citations": 1.2150
+				}
+			},
+			{
+				"id": 1090,
+				"label": "john maynard keynes",
+				"x": 1.6199,
+				"y": -0.4914,
+				"cluster": 1,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 16.0000,
+					"Occurrences": 6.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2015.5000,
+					"Avg. citations": 1.8333,
+					"Avg. norm. citations": 0.3268
+				}
+			},
+			{
+				"id": 1100,
+				"label": "julian simon",
+				"x": -0.2979,
+				"y": -0.8465,
+				"cluster": 2,
+				"weights": {
+					"Links": 9.0000,
+					"Total link strength": 9.0000,
+					"Occurrences": 7.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2022.0000,
+					"Avg. citations": 1.2857,
+					"Avg. norm. citations": 1.3371
+				}
+			},
+			{
+				"id": 1118,
+				"label": "keynes",
+				"x": 0.3170,
+				"y": 0.0597,
+				"cluster": 4,
+				"weights": {
+					"Links": 13.0000,
+					"Total link strength": 18.0000,
+					"Occurrences": 8.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2012.1250,
+					"Avg. citations": 6.7500,
+					"Avg. norm. citations": 0.9050
+				}
+			},
+			{
+				"id": 1132,
+				"label": "knowledge",
+				"x": 0.0560,
+				"y": -0.1167,
+				"cluster": 7,
+				"weights": {
+					"Links": 22.0000,
+					"Total link strength": 32.0000,
+					"Occurrences": 16.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2010.8750,
+					"Avg. citations": 16.0625,
+					"Avg. norm. citations": 1.0646
+				}
+			},
+			{
+				"id": 1133,
+				"label": "knowledge problem",
+				"x": 0.0751,
+				"y": -0.4056,
+				"cluster": 4,
+				"weights": {
+					"Links": 8.0000,
+					"Total link strength": 8.0000,
+					"Occurrences": 8.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.2500,
+					"Avg. citations": 2.8750,
+					"Avg. norm. citations": 1.3655
+				}
+			},
+			{
+				"id": 1145,
+				"label": "lachmann",
+				"x": -0.4718,
+				"y": 0.0770,
+				"cluster": 6,
+				"weights": {
+					"Links": 16.0000,
+					"Total link strength": 20.0000,
+					"Occurrences": 7.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2018.5714,
+					"Avg. citations": 2.1429,
+					"Avg. norm. citations": 0.9425
+				}
+			},
+			{
+				"id": 1157,
+				"label": "law and economics",
+				"x": -0.1766,
+				"y": 0.2750,
+				"cluster": 5,
+				"weights": {
+					"Links": 10.0000,
+					"Total link strength": 10.0000,
+					"Occurrences": 6.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2014.3333,
+					"Avg. citations": 3.6667,
+					"Avg. norm. citations": 0.7003
+				}
+			},
+			{
+				"id": 1179,
+				"label": "liberalism",
+				"x": -0.6013,
+				"y": 0.5072,
+				"cluster": 6,
+				"weights": {
+					"Links": 17.0000,
+					"Total link strength": 19.0000,
+					"Occurrences": 11.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2015.9091,
+					"Avg. citations": 2.5455,
+					"Avg. norm. citations": 0.4179
+				}
+			},
+			{
+				"id": 1199,
+				"label": "local knowledge",
+				"x": 0.0587,
+				"y": -0.7103,
+				"cluster": 3,
+				"weights": {
+					"Links": 8.0000,
+					"Total link strength": 9.0000,
+					"Occurrences": 5.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2018.6000,
+					"Avg. citations": 3.0000,
+					"Avg. norm. citations": 1.3530
+				}
+			},
+			{
+				"id": 1211,
+				"label": "ludwig von mises",
+				"x": 0.1352,
+				"y": 0.7153,
+				"cluster": 7,
+				"weights": {
+					"Links": 20.0000,
+					"Total link strength": 39.0000,
+					"Occurrences": 18.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2014.6667,
+					"Avg. citations": 2.5556,
+					"Avg. norm. citations": 0.4021
+				}
+			},
+			{
+				"id": 1224,
+				"label": "macroeconomics",
+				"x": 0.7667,
+				"y": 0.1711,
+				"cluster": 1,
+				"weights": {
+					"Links": 18.0000,
+					"Total link strength": 24.0000,
+					"Occurrences": 11.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2014.0000,
+					"Avg. citations": 1.9091,
+					"Avg. norm. citations": 0.2714
+				}
+			},
+			{
+				"id": 1232,
+				"label": "marginal efficiency of capital",
+				"x": 1.6063,
+				"y": -0.4301,
+				"cluster": 1,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 16.0000,
+					"Occurrences": 5.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2015.6000,
+					"Avg. citations": 2.2000,
+					"Avg. norm. citations": 0.3922
+				}
+			},
+			{
+				"id": 1247,
+				"label": "market process",
+				"x": -0.4103,
+				"y": -0.1462,
+				"cluster": 2,
+				"weights": {
+					"Links": 36.0000,
+					"Total link strength": 47.0000,
+					"Occurrences": 22.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2013.9091,
+					"Avg. citations": 13.1818,
+					"Avg. norm. citations": 1.9290
+				}
+			},
+			{
+				"id": 1259,
+				"label": "markets",
+				"x": -0.8363,
+				"y": 0.3603,
+				"cluster": 6,
+				"weights": {
+					"Links": 18.0000,
+					"Total link strength": 23.0000,
+					"Occurrences": 8.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2015.3750,
+					"Avg. citations": 4.2500,
+					"Avg. norm. citations": 0.8529
+				}
+			},
+			{
+				"id": 1272,
+				"label": "max weber",
+				"x": -0.6304,
+				"y": 0.8128,
+				"cluster": 6,
+				"weights": {
+					"Links": 8.0000,
+					"Total link strength": 10.0000,
+					"Occurrences": 6.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2014.5000,
+					"Avg. citations": 4.6667,
+					"Avg. norm. citations": 0.8768
+				}
+			},
+			{
+				"id": 1282,
+				"label": "menger",
+				"x": -0.1108,
+				"y": 0.0456,
+				"cluster": 4,
+				"weights": {
+					"Links": 9.0000,
+					"Total link strength": 11.0000,
+					"Occurrences": 8.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.2500,
+					"Avg. citations": 2.5000,
+					"Avg. norm. citations": 0.5957
+				}
+			},
+			{
+				"id": 1292,
+				"label": "methodological individualism",
+				"x": -0.5783,
+				"y": 0.0758,
+				"cluster": 2,
+				"weights": {
+					"Links": 17.0000,
+					"Total link strength": 20.0000,
+					"Occurrences": 10.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2013.7000,
+					"Avg. citations": 4.8000,
+					"Avg. norm. citations": 1.0316
+				}
+			},
+			{
+				"id": 1294,
+				"label": "methodology",
+				"x": -0.0356,
+				"y": 0.5511,
+				"cluster": 7,
+				"weights": {
+					"Links": 21.0000,
+					"Total link strength": 31.0000,
+					"Occurrences": 22.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2012.9091,
+					"Avg. citations": 4.3182,
+					"Avg. norm. citations": 0.9006
+				}
+			},
+			{
+				"id": 1311,
+				"label": "mises",
+				"x": 0.4514,
+				"y": 0.3333,
+				"cluster": 4,
+				"weights": {
+					"Links": 20.0000,
+					"Total link strength": 37.0000,
+					"Occurrences": 16.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2013.6250,
+					"Avg. citations": 8.6250,
+					"Avg. norm. citations": 1.4866
+				}
+			},
+			{
+				"id": 1321,
+				"label": "monetary equilibrium",
+				"x": 1.0955,
+				"y": -0.5876,
+				"cluster": 1,
+				"weights": {
+					"Links": 9.0000,
+					"Total link strength": 21.0000,
+					"Occurrences": 9.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2015.0000,
+					"Avg. citations": 6.0000,
+					"Avg. norm. citations": 1.0584
+				}
+			},
+			{
+				"id": 1329,
+				"label": "monetary policy",
+				"x": 0.6565,
+				"y": -0.0004,
+				"cluster": 1,
+				"weights": {
+					"Links": 25.0000,
+					"Total link strength": 46.0000,
+					"Occurrences": 24.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2013.7917,
+					"Avg. citations": 5.5833,
+					"Avg. norm. citations": 0.9564
+				}
+			},
+			{
+				"id": 1336,
+				"label": "money",
+				"x": 0.5616,
+				"y": 0.2964,
+				"cluster": 4,
+				"weights": {
+					"Links": 11.0000,
+					"Total link strength": 15.0000,
+					"Occurrences": 8.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2013.6250,
+					"Avg. citations": 5.6250,
+					"Avg. norm. citations": 1.2529
+				}
+			},
+			{
+				"id": 1347,
+				"label": "morality",
+				"x": -0.9096,
+				"y": 0.2718,
+				"cluster": 6,
+				"weights": {
+					"Links": 11.0000,
+					"Total link strength": 13.0000,
+					"Occurrences": 5.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2018.0000,
+					"Avg. citations": 2.4000,
+					"Avg. norm. citations": 1.3775
+				}
+			},
+			{
+				"id": 1384,
+				"label": "neoclassical economics",
+				"x": -0.1870,
+				"y": 0.5968,
+				"cluster": 3,
+				"weights": {
+					"Links": 5.0000,
+					"Total link strength": 5.0000,
+					"Occurrences": 5.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.6000,
+					"Avg. citations": 9.8000,
+					"Avg. norm. citations": 0.9421
+				}
+			},
+			{
+				"id": 1393,
+				"label": "net present value",
+				"x": 1.6629,
+				"y": -0.4425,
+				"cluster": 1,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 16.0000,
+					"Occurrences": 5.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2015.6000,
+					"Avg. citations": 2.2000,
+					"Avg. norm. citations": 0.3922
+				}
+			},
+			{
+				"id": 1499,
+				"label": "p16",
+				"x": -0.7737,
+				"y": -0.2451,
+				"cluster": 8,
+				"weights": {
+					"Links": 10.0000,
+					"Total link strength": 13.0000,
+					"Occurrences": 5.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2019.4000,
+					"Avg. citations": 9.2000,
+					"Avg. norm. citations": 3.8708
+				}
+			},
+			{
+				"id": 1542,
+				"label": "pirates",
+				"x": -0.7941,
+				"y": -0.7111,
+				"cluster": 8,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 3.0000,
+					"Occurrences": 5.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2010.0000,
+					"Avg. citations": 1.6000,
+					"Avg. norm. citations": 0.2047
+				}
+			},
+			{
+				"id": 1561,
+				"label": "political economy",
+				"x": -0.3714,
+				"y": 0.0044,
+				"cluster": 5,
+				"weights": {
+					"Links": 28.0000,
+					"Total link strength": 35.0000,
+					"Occurrences": 17.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2015.0000,
+					"Avg. citations": 2.4118,
+					"Avg. norm. citations": 0.6389
+				}
+			},
+			{
+				"id": 1577,
+				"label": "polycentricity",
+				"x": -0.7615,
+				"y": -0.5503,
+				"cluster": 2,
+				"weights": {
+					"Links": 11.0000,
+					"Total link strength": 12.0000,
+					"Occurrences": 6.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.5000,
+					"Avg. citations": 5.8333,
+					"Avg. norm. citations": 1.1462
+				}
+			},
+			{
+				"id": 1600,
+				"label": "praxeology",
+				"x": 0.1239,
+				"y": 0.5524,
+				"cluster": 7,
+				"weights": {
+					"Links": 28.0000,
+					"Total link strength": 46.0000,
+					"Occurrences": 19.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2014.3158,
+					"Avg. citations": 4.6842,
+					"Avg. norm. citations": 0.7049
+				}
+			},
+			{
+				"id": 1623,
+				"label": "price theory",
+				"x": -0.7036,
+				"y": -0.3730,
+				"cluster": 5,
+				"weights": {
+					"Links": 7.0000,
+					"Total link strength": 9.0000,
+					"Occurrences": 6.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.1667,
+					"Avg. citations": 6.8333,
+					"Avg. norm. citations": 1.1935
+				}
+			},
+			{
+				"id": 1648,
+				"label": "production structure",
+				"x": 1.2934,
+				"y": -0.0153,
+				"cluster": 1,
+				"weights": {
+					"Links": 5.0000,
+					"Total link strength": 9.0000,
+					"Occurrences": 5.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2014.0000,
+					"Avg. citations": 2.6000,
+					"Avg. norm. citations": 0.5579
+				}
+			},
+			{
+				"id": 1662,
+				"label": "property rights",
+				"x": -0.1825,
+				"y": -0.7290,
+				"cluster": 2,
+				"weights": {
+					"Links": 14.0000,
+					"Total link strength": 19.0000,
+					"Occurrences": 14.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2014.2143,
+					"Avg. citations": 8.1429,
+					"Avg. norm. citations": 1.6021
+				}
+			},
+			{
+				"id": 1671,
+				"label": "public choice",
+				"x": -0.6592,
+				"y": 0.0074,
+				"cluster": 5,
+				"weights": {
+					"Links": 26.0000,
+					"Total link strength": 47.0000,
+					"Occurrences": 26.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2012.3462,
+					"Avg. citations": 15.8077,
+					"Avg. norm. citations": 1.6399
+				}
+			},
+			{
+				"id": 1681,
+				"label": "public policy",
+				"x": -0.8296,
+				"y": -0.3413,
+				"cluster": 8,
+				"weights": {
+					"Links": 14.0000,
+					"Total link strength": 16.0000,
+					"Occurrences": 5.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2019.6000,
+					"Avg. citations": 3.4000,
+					"Avg. norm. citations": 1.5625
+				}
+			},
+			{
+				"id": 1710,
+				"label": "rational expectations",
+				"x": 1.0891,
+				"y": 0.0696,
+				"cluster": 1,
+				"weights": {
+					"Links": 7.0000,
+					"Total link strength": 7.0000,
+					"Occurrences": 5.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.0000,
+					"Avg. citations": 11.2000,
+					"Avg. norm. citations": 2.7792
+				}
+			},
+			{
+				"id": 1740,
+				"label": "regulation",
+				"x": -0.6375,
+				"y": -0.6042,
+				"cluster": 2,
+				"weights": {
+					"Links": 13.0000,
+					"Total link strength": 16.0000,
+					"Occurrences": 11.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2014.9091,
+					"Avg. citations": 6.6364,
+					"Avg. norm. citations": 1.6464
+				}
+			},
+			{
+				"id": 1785,
+				"label": "robust political economy",
+				"x": -0.0652,
+				"y": -0.2646,
+				"cluster": 8,
+				"weights": {
+					"Links": 11.0000,
+					"Total link strength": 17.0000,
+					"Occurrences": 10.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2015.6000,
+					"Avg. citations": 9.6000,
+					"Avg. norm. citations": 2.2764
+				}
+			},
+			{
+				"id": 1793,
+				"label": "rothbard",
+				"x": 0.7400,
+				"y": 0.4515,
+				"cluster": 1,
+				"weights": {
+					"Links": 10.0000,
+					"Total link strength": 11.0000,
+					"Occurrences": 5.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2013.6000,
+					"Avg. citations": 12.2000,
+					"Avg. norm. citations": 1.9436
+				}
+			},
+			{
+				"id": 1801,
+				"label": "rules",
+				"x": -0.7704,
+				"y": -0.0115,
+				"cluster": 2,
+				"weights": {
+					"Links": 12.0000,
+					"Total link strength": 12.0000,
+					"Occurrences": 8.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2012.8750,
+					"Avg. citations": 3.1250,
+					"Avg. norm. citations": 0.6915
+				}
+			},
+			{
+				"id": 1847,
+				"label": "self-governance",
+				"x": -0.8631,
+				"y": -0.4423,
+				"cluster": 8,
+				"weights": {
+					"Links": 12.0000,
+					"Total link strength": 13.0000,
+					"Occurrences": 9.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.1111,
+					"Avg. citations": 9.2222,
+					"Avg. norm. citations": 2.0831
+				}
+			},
+			{
+				"id": 1875,
+				"label": "social capital",
+				"x": -0.8424,
+				"y": 0.7332,
+				"cluster": 6,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 9.0000,
+					"Occurrences": 9.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2009.8889,
+					"Avg. citations": 13.3333,
+					"Avg. norm. citations": 2.0893
+				}
+			},
+			{
+				"id": 1907,
+				"label": "socialism",
+				"x": 0.1785,
+				"y": -0.4065,
+				"cluster": 3,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 8.0000,
+					"Occurrences": 6.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2015.5000,
+					"Avg. citations": 0.6667,
+					"Avg. norm. citations": 0.2962
+				}
+			},
+			{
+				"id": 1928,
+				"label": "spontaneous order",
+				"x": -0.2690,
+				"y": -0.1882,
+				"cluster": 2,
+				"weights": {
+					"Links": 20.0000,
+					"Total link strength": 27.0000,
+					"Occurrences": 18.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2013.2222,
+					"Avg. citations": 6.8333,
+					"Avg. norm. citations": 1.6160
+				}
+			},
+			{
+				"id": 1963,
+				"label": "structure of production",
+				"x": 1.0596,
+				"y": 0.2241,
+				"cluster": 1,
+				"weights": {
+					"Links": 13.0000,
+					"Total link strength": 20.0000,
+					"Occurrences": 10.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.4000,
+					"Avg. citations": 4.5000,
+					"Avg. norm. citations": 1.3303
+				}
+			},
+			{
+				"id": 1967,
+				"label": "subjectivism",
+				"x": -0.4697,
+				"y": 0.2887,
+				"cluster": 6,
+				"weights": {
+					"Links": 30.0000,
+					"Total link strength": 41.0000,
+					"Occurrences": 22.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2014.6818,
+					"Avg. citations": 5.5909,
+					"Avg. norm. citations": 1.2154
+				}
+			},
+			{
+				"id": 1991,
+				"label": "systems theory",
+				"x": -0.5956,
+				"y": -0.2605,
+				"cluster": 2,
+				"weights": {
+					"Links": 8.0000,
+					"Total link strength": 9.0000,
+					"Occurrences": 5.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2019.4000,
+					"Avg. citations": 3.2000,
+					"Avg. norm. citations": 0.9377
+				}
+			},
+			{
+				"id": 1998,
+				"label": "taxation",
+				"x": -1.1850,
+				"y": -0.0070,
+				"cluster": 5,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 4.0000,
+					"Occurrences": 5.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.0000,
+					"Avg. citations": 2.6000,
+					"Avg. norm. citations": 0.7168
+				}
+			},
+			{
+				"id": 2028,
+				"label": "theory of the firm",
+				"x": -0.4646,
+				"y": -0.7221,
+				"cluster": 8,
+				"weights": {
+					"Links": 10.0000,
+					"Total link strength": 13.0000,
+					"Occurrences": 7.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2014.0000,
+					"Avg. citations": 7.5714,
+					"Avg. norm. citations": 2.0346
+				}
+			},
+			{
+				"id": 2033,
+				"label": "thymology",
+				"x": -0.0523,
+				"y": 0.7274,
+				"cluster": 4,
+				"weights": {
+					"Links": 10.0000,
+					"Total link strength": 12.0000,
+					"Occurrences": 5.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2015.8000,
+					"Avg. citations": 4.0000,
+					"Avg. norm. citations": 0.6288
+				}
+			},
+			{
+				"id": 2038,
+				"label": "time preference",
+				"x": 1.1561,
+				"y": 0.3181,
+				"cluster": 1,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 6.0000,
+					"Occurrences": 5.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2012.8000,
+					"Avg. citations": 2.8000,
+					"Avg. norm. citations": 0.4209
+				}
+			},
+			{
+				"id": 2051,
+				"label": "transaction costs",
+				"x": -0.0841,
+				"y": -0.5365,
+				"cluster": 4,
+				"weights": {
+					"Links": 7.0000,
+					"Total link strength": 7.0000,
+					"Occurrences": 9.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2012.7778,
+					"Avg. citations": 14.5556,
+					"Avg. norm. citations": 2.3487
+				}
+			},
+			{
+				"id": 2061,
+				"label": "trust",
+				"x": -0.7582,
+				"y": 0.7016,
+				"cluster": 6,
+				"weights": {
+					"Links": 7.0000,
+					"Total link strength": 10.0000,
+					"Occurrences": 9.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2007.8889,
+					"Avg. citations": 13.4444,
+					"Avg. norm. citations": 1.3644
+				}
+			},
+			{
+				"id": 2070,
+				"label": "uncertainty",
+				"x": -0.2035,
+				"y": -0.5014,
+				"cluster": 2,
+				"weights": {
+					"Links": 19.0000,
+					"Total link strength": 26.0000,
+					"Occurrences": 12.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.1667,
+					"Avg. citations": 10.5000,
+					"Avg. norm. citations": 2.2562
+				}
+			},
+			{
+				"id": 2135,
+				"label": "welfare economics",
+				"x": 0.1719,
+				"y": 0.1393,
+				"cluster": 3,
+				"weights": {
+					"Links": 7.0000,
+					"Total link strength": 7.0000,
+					"Occurrences": 5.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2013.0000,
+					"Avg. citations": 4.0000,
+					"Avg. norm. citations": 0.9796
+				}
+			}
+		],
+		"links": [
+			{
+				"source_id": 19,
+				"target_id": 161,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 239,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 276,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 391,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 638,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 675,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 909,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 1021,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 1179,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 1384,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 46,
+				"target_id": 108,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 46,
+				"target_id": 258,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 46,
+				"target_id": 641,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 46,
+				"target_id": 649,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 46,
+				"target_id": 778,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 46,
+				"target_id": 1132,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 46,
+				"target_id": 1199,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 46,
+				"target_id": 1321,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 46,
+				"target_id": 2028,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 99,
+				"target_id": 202,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 99,
+				"target_id": 730,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 99,
+				"target_id": 742,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 99,
+				"target_id": 877,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 99,
+				"target_id": 1118,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 99,
+				"target_id": 1224,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 99,
+				"target_id": 1311,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 99,
+				"target_id": 1710,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 99,
+				"target_id": 1793,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 99,
+				"target_id": 1963,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 103,
+				"target_id": 202,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 103,
+				"target_id": 222,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 103,
+				"target_id": 232,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 103,
+				"target_id": 237,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 103,
+				"target_id": 258,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 103,
+				"target_id": 426,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 103,
+				"target_id": 641,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 103,
+				"target_id": 715,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 103,
+				"target_id": 730,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 103,
+				"target_id": 742,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 103,
+				"target_id": 778,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 103,
+				"target_id": 1224,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 103,
+				"target_id": 1321,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 103,
+				"target_id": 1329,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 103,
+				"target_id": 1561,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 103,
+				"target_id": 1710,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 103,
+				"target_id": 1963,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 108,
+				"target_id": 144,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 108,
+				"target_id": 161,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 108,
+				"target_id": 197,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 108,
+				"target_id": 202,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 108,
+				"target_id": 204,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 108,
+				"target_id": 222,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 108,
+				"target_id": 239,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 108,
+				"target_id": 246,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 108,
+				"target_id": 258,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 108,
+				"target_id": 293,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 108,
+				"target_id": 330,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 108,
+				"target_id": 346,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 108,
+				"target_id": 369,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 108,
+				"target_id": 444,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 108,
+				"target_id": 478,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 108,
+				"target_id": 496,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 108,
+				"target_id": 558,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 108,
+				"target_id": 561,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 108,
+				"target_id": 569,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 108,
+				"target_id": 571,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 108,
+				"target_id": 585,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 108,
+				"target_id": 589,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 108,
+				"target_id": 620,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 108,
+				"target_id": 649,
+				"strength": 13.0000
+			},
+			{
+				"source_id": 108,
+				"target_id": 667,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 108,
+				"target_id": 675,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 108,
+				"target_id": 702,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 108,
+				"target_id": 715,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 108,
+				"target_id": 719,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 108,
+				"target_id": 730,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 108,
+				"target_id": 742,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 108,
+				"target_id": 778,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 108,
+				"target_id": 813,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 108,
+				"target_id": 877,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 108,
+				"target_id": 890,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 108,
+				"target_id": 891,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 108,
+				"target_id": 909,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 108,
+				"target_id": 916,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 108,
+				"target_id": 996,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 108,
+				"target_id": 1000,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 108,
+				"target_id": 1021,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 108,
+				"target_id": 1032,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 108,
+				"target_id": 1061,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 108,
+				"target_id": 1100,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 108,
+				"target_id": 1132,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 108,
+				"target_id": 1133,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 108,
+				"target_id": 1145,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 108,
+				"target_id": 1157,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 108,
+				"target_id": 1179,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 108,
+				"target_id": 1199,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 108,
+				"target_id": 1211,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 108,
+				"target_id": 1224,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 108,
+				"target_id": 1247,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 108,
+				"target_id": 1259,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 108,
+				"target_id": 1272,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 108,
+				"target_id": 1292,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 108,
+				"target_id": 1294,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 108,
+				"target_id": 1311,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 108,
+				"target_id": 1329,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 108,
+				"target_id": 1336,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 108,
+				"target_id": 1347,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 108,
+				"target_id": 1384,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 108,
+				"target_id": 1499,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 108,
+				"target_id": 1542,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 108,
+				"target_id": 1561,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 108,
+				"target_id": 1577,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 108,
+				"target_id": 1600,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 108,
+				"target_id": 1623,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 108,
+				"target_id": 1662,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 108,
+				"target_id": 1671,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 108,
+				"target_id": 1681,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 108,
+				"target_id": 1740,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 108,
+				"target_id": 1785,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 108,
+				"target_id": 1847,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 108,
+				"target_id": 1928,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 108,
+				"target_id": 1967,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 108,
+				"target_id": 1998,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 108,
+				"target_id": 2028,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 108,
+				"target_id": 2033,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 108,
+				"target_id": 2038,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 108,
+				"target_id": 2070,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 108,
+				"target_id": 2135,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 116,
+				"target_id": 143,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 116,
+				"target_id": 144,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 116,
+				"target_id": 202,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 116,
+				"target_id": 204,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 116,
+				"target_id": 233,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 116,
+				"target_id": 239,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 116,
+				"target_id": 246,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 116,
+				"target_id": 308,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 116,
+				"target_id": 569,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 116,
+				"target_id": 571,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 116,
+				"target_id": 589,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 116,
+				"target_id": 641,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 116,
+				"target_id": 649,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 116,
+				"target_id": 667,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 116,
+				"target_id": 715,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 116,
+				"target_id": 719,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 116,
+				"target_id": 909,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 116,
+				"target_id": 916,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 116,
+				"target_id": 979,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 116,
+				"target_id": 1032,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 116,
+				"target_id": 1067,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 116,
+				"target_id": 1084,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 116,
+				"target_id": 1132,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 116,
+				"target_id": 1157,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 116,
+				"target_id": 1224,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 116,
+				"target_id": 1247,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 116,
+				"target_id": 1292,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 116,
+				"target_id": 1294,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 116,
+				"target_id": 1311,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 116,
+				"target_id": 1329,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 116,
+				"target_id": 1384,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 116,
+				"target_id": 1600,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 116,
+				"target_id": 1963,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 116,
+				"target_id": 1967,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 116,
+				"target_id": 2070,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 117,
+				"target_id": 144,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 117,
+				"target_id": 204,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 117,
+				"target_id": 239,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 117,
+				"target_id": 342,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 117,
+				"target_id": 569,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 117,
+				"target_id": 890,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 117,
+				"target_id": 891,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 117,
+				"target_id": 909,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 117,
+				"target_id": 916,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 117,
+				"target_id": 992,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 117,
+				"target_id": 1067,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 117,
+				"target_id": 1329,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 117,
+				"target_id": 1928,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 130,
+				"target_id": 144,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 130,
+				"target_id": 222,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 130,
+				"target_id": 542,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 143,
+				"target_id": 144,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 143,
+				"target_id": 237,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 143,
+				"target_id": 979,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 143,
+				"target_id": 1009,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 143,
+				"target_id": 1021,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 143,
+				"target_id": 1247,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 143,
+				"target_id": 1259,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 143,
+				"target_id": 1311,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 143,
+				"target_id": 1347,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 143,
+				"target_id": 1499,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 143,
+				"target_id": 1561,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 143,
+				"target_id": 1681,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 143,
+				"target_id": 1847,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 144,
+				"target_id": 161,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 144,
+				"target_id": 204,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 144,
+				"target_id": 222,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 144,
+				"target_id": 233,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 144,
+				"target_id": 330,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 144,
+				"target_id": 369,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 144,
+				"target_id": 496,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 144,
+				"target_id": 542,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 144,
+				"target_id": 558,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 144,
+				"target_id": 561,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 144,
+				"target_id": 649,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 144,
+				"target_id": 890,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 144,
+				"target_id": 1000,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 144,
+				"target_id": 1009,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 144,
+				"target_id": 1100,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 144,
+				"target_id": 1157,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 144,
+				"target_id": 1179,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 144,
+				"target_id": 1247,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 144,
+				"target_id": 1259,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 144,
+				"target_id": 1294,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 144,
+				"target_id": 1311,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 144,
+				"target_id": 1321,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 144,
+				"target_id": 1347,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 144,
+				"target_id": 1499,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 144,
+				"target_id": 1561,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 144,
+				"target_id": 1662,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 144,
+				"target_id": 1671,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 144,
+				"target_id": 1681,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 144,
+				"target_id": 1785,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 144,
+				"target_id": 1847,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 161,
+				"target_id": 239,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 161,
+				"target_id": 558,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 161,
+				"target_id": 675,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 161,
+				"target_id": 1021,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 161,
+				"target_id": 1384,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 161,
+				"target_id": 1671,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 161,
+				"target_id": 1785,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 161,
+				"target_id": 2033,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 161,
+				"target_id": 2135,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 197,
+				"target_id": 276,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 197,
+				"target_id": 478,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 197,
+				"target_id": 496,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 197,
+				"target_id": 675,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 197,
+				"target_id": 696,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 197,
+				"target_id": 877,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 197,
+				"target_id": 909,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 197,
+				"target_id": 1157,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 197,
+				"target_id": 1179,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 197,
+				"target_id": 1259,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 197,
+				"target_id": 1294,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 197,
+				"target_id": 1347,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 197,
+				"target_id": 1561,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 197,
+				"target_id": 1671,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 197,
+				"target_id": 1967,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 197,
+				"target_id": 1998,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 202,
+				"target_id": 232,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 202,
+				"target_id": 233,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 202,
+				"target_id": 258,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 202,
+				"target_id": 426,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 202,
+				"target_id": 542,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 202,
+				"target_id": 569,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 202,
+				"target_id": 641,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 202,
+				"target_id": 715,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 202,
+				"target_id": 730,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 202,
+				"target_id": 742,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 202,
+				"target_id": 778,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 202,
+				"target_id": 844,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 202,
+				"target_id": 877,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 202,
+				"target_id": 916,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 202,
+				"target_id": 992,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 202,
+				"target_id": 1032,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 202,
+				"target_id": 1035,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 202,
+				"target_id": 1118,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 202,
+				"target_id": 1224,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 202,
+				"target_id": 1311,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 202,
+				"target_id": 1321,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 202,
+				"target_id": 1329,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 202,
+				"target_id": 1600,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 202,
+				"target_id": 1710,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 202,
+				"target_id": 1793,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 202,
+				"target_id": 1963,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 202,
+				"target_id": 1967,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 204,
+				"target_id": 222,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 204,
+				"target_id": 233,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 204,
+				"target_id": 258,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 204,
+				"target_id": 391,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 204,
+				"target_id": 542,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 204,
+				"target_id": 558,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 204,
+				"target_id": 571,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 204,
+				"target_id": 649,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 204,
+				"target_id": 667,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 204,
+				"target_id": 702,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 204,
+				"target_id": 715,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 204,
+				"target_id": 742,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 204,
+				"target_id": 778,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 204,
+				"target_id": 813,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 204,
+				"target_id": 877,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 204,
+				"target_id": 916,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 204,
+				"target_id": 1000,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 204,
+				"target_id": 1035,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 204,
+				"target_id": 1067,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 204,
+				"target_id": 1090,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 204,
+				"target_id": 1118,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 204,
+				"target_id": 1224,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 204,
+				"target_id": 1232,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 204,
+				"target_id": 1294,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 204,
+				"target_id": 1311,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 204,
+				"target_id": 1321,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 204,
+				"target_id": 1329,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 204,
+				"target_id": 1393,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 204,
+				"target_id": 1648,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 204,
+				"target_id": 1710,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 212,
+				"target_id": 222,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 212,
+				"target_id": 641,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 212,
+				"target_id": 794,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 212,
+				"target_id": 1561,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 212,
+				"target_id": 1907,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 212,
+				"target_id": 2135,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 222,
+				"target_id": 237,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 222,
+				"target_id": 239,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 222,
+				"target_id": 308,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 222,
+				"target_id": 542,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 222,
+				"target_id": 569,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 222,
+				"target_id": 641,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 222,
+				"target_id": 649,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 222,
+				"target_id": 1000,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 222,
+				"target_id": 1021,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 222,
+				"target_id": 1067,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 222,
+				"target_id": 1132,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 222,
+				"target_id": 1145,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 222,
+				"target_id": 1329,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 222,
+				"target_id": 1648,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 222,
+				"target_id": 1991,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 222,
+				"target_id": 2028,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 232,
+				"target_id": 233,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 232,
+				"target_id": 330,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 232,
+				"target_id": 496,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 232,
+				"target_id": 569,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 232,
+				"target_id": 641,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 232,
+				"target_id": 1329,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 232,
+				"target_id": 2070,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 233,
+				"target_id": 346,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 233,
+				"target_id": 542,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 233,
+				"target_id": 561,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 233,
+				"target_id": 569,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 233,
+				"target_id": 649,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 233,
+				"target_id": 916,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 233,
+				"target_id": 1032,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 233,
+				"target_id": 1067,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 233,
+				"target_id": 1224,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 233,
+				"target_id": 1321,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 233,
+				"target_id": 1648,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 233,
+				"target_id": 1963,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 233,
+				"target_id": 2070,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 237,
+				"target_id": 416,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 237,
+				"target_id": 649,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 237,
+				"target_id": 877,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 237,
+				"target_id": 979,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 237,
+				"target_id": 1021,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 237,
+				"target_id": 1179,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 237,
+				"target_id": 1259,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 239,
+				"target_id": 649,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 239,
+				"target_id": 675,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 239,
+				"target_id": 794,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 239,
+				"target_id": 909,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 239,
+				"target_id": 979,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 239,
+				"target_id": 1021,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 239,
+				"target_id": 1247,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 239,
+				"target_id": 1336,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 239,
+				"target_id": 1967,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 239,
+				"target_id": 2135,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 246,
+				"target_id": 308,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 246,
+				"target_id": 444,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 246,
+				"target_id": 890,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 246,
+				"target_id": 891,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 246,
+				"target_id": 916,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 246,
+				"target_id": 1021,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 246,
+				"target_id": 1145,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 246,
+				"target_id": 1211,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 246,
+				"target_id": 1247,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 246,
+				"target_id": 1259,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 246,
+				"target_id": 1600,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 258,
+				"target_id": 426,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 258,
+				"target_id": 558,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 258,
+				"target_id": 730,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 258,
+				"target_id": 778,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 258,
+				"target_id": 1032,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 258,
+				"target_id": 1035,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 258,
+				"target_id": 1090,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 258,
+				"target_id": 1224,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 258,
+				"target_id": 1232,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 258,
+				"target_id": 1321,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 258,
+				"target_id": 1329,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 258,
+				"target_id": 1336,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 258,
+				"target_id": 1393,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 258,
+				"target_id": 1785,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 262,
+				"target_id": 558,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 262,
+				"target_id": 561,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 262,
+				"target_id": 569,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 262,
+				"target_id": 1785,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 262,
+				"target_id": 1907,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 276,
+				"target_id": 675,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 276,
+				"target_id": 877,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 276,
+				"target_id": 1294,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 276,
+				"target_id": 1561,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 276,
+				"target_id": 1600,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 276,
+				"target_id": 1671,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 293,
+				"target_id": 836,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 293,
+				"target_id": 1671,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 293,
+				"target_id": 1998,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 308,
+				"target_id": 478,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 308,
+				"target_id": 1132,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 308,
+				"target_id": 1600,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 308,
+				"target_id": 1793,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 330,
+				"target_id": 496,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 330,
+				"target_id": 794,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 330,
+				"target_id": 1157,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 330,
+				"target_id": 1928,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 342,
+				"target_id": 569,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 342,
+				"target_id": 649,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 342,
+				"target_id": 667,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 342,
+				"target_id": 813,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 342,
+				"target_id": 836,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 342,
+				"target_id": 1000,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 342,
+				"target_id": 1132,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 342,
+				"target_id": 1247,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 342,
+				"target_id": 1740,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 346,
+				"target_id": 620,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 346,
+				"target_id": 649,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 346,
+				"target_id": 877,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 346,
+				"target_id": 1000,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 346,
+				"target_id": 1021,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 346,
+				"target_id": 1118,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 346,
+				"target_id": 1199,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 346,
+				"target_id": 1292,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 346,
+				"target_id": 1577,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 346,
+				"target_id": 1681,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 346,
+				"target_id": 1801,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 346,
+				"target_id": 1967,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 346,
+				"target_id": 1991,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 346,
+				"target_id": 2070,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 369,
+				"target_id": 696,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 369,
+				"target_id": 1499,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 369,
+				"target_id": 1671,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 369,
+				"target_id": 1785,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 369,
+				"target_id": 1928,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 391,
+				"target_id": 667,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 391,
+				"target_id": 702,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 391,
+				"target_id": 1000,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 391,
+				"target_id": 1347,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 391,
+				"target_id": 1801,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 391,
+				"target_id": 1967,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 416,
+				"target_id": 567,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 416,
+				"target_id": 649,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 416,
+				"target_id": 1000,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 416,
+				"target_id": 2028,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 426,
+				"target_id": 778,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 426,
+				"target_id": 1321,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 426,
+				"target_id": 1329,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 444,
+				"target_id": 478,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 444,
+				"target_id": 561,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 444,
+				"target_id": 649,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 444,
+				"target_id": 702,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 444,
+				"target_id": 890,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 444,
+				"target_id": 1021,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 444,
+				"target_id": 1145,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 444,
+				"target_id": 1179,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 444,
+				"target_id": 1247,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 444,
+				"target_id": 1259,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 444,
+				"target_id": 1272,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 444,
+				"target_id": 1847,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 444,
+				"target_id": 1875,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 444,
+				"target_id": 1967,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 444,
+				"target_id": 2051,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 444,
+				"target_id": 2061,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 478,
+				"target_id": 496,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 478,
+				"target_id": 649,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 478,
+				"target_id": 794,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 478,
+				"target_id": 877,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 478,
+				"target_id": 1132,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 478,
+				"target_id": 1179,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 478,
+				"target_id": 1671,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 496,
+				"target_id": 569,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 496,
+				"target_id": 649,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 496,
+				"target_id": 675,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 496,
+				"target_id": 996,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 496,
+				"target_id": 1000,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 496,
+				"target_id": 1021,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 496,
+				"target_id": 1662,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 496,
+				"target_id": 1740,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 542,
+				"target_id": 916,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 558,
+				"target_id": 567,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 558,
+				"target_id": 649,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 558,
+				"target_id": 715,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 558,
+				"target_id": 877,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 558,
+				"target_id": 1035,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 558,
+				"target_id": 1061,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 558,
+				"target_id": 1090,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 558,
+				"target_id": 1132,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 558,
+				"target_id": 1133,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 558,
+				"target_id": 1145,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 558,
+				"target_id": 1211,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 558,
+				"target_id": 1232,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 558,
+				"target_id": 1393,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 558,
+				"target_id": 1662,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 558,
+				"target_id": 1907,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 558,
+				"target_id": 2051,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 561,
+				"target_id": 567,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 561,
+				"target_id": 569,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 561,
+				"target_id": 649,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 561,
+				"target_id": 1000,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 561,
+				"target_id": 1021,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 561,
+				"target_id": 1100,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 561,
+				"target_id": 1247,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 561,
+				"target_id": 1561,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 561,
+				"target_id": 1577,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 561,
+				"target_id": 1662,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 567,
+				"target_id": 649,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 567,
+				"target_id": 1021,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 567,
+				"target_id": 1061,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 569,
+				"target_id": 571,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 569,
+				"target_id": 641,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 569,
+				"target_id": 649,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 569,
+				"target_id": 667,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 569,
+				"target_id": 675,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 569,
+				"target_id": 992,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 569,
+				"target_id": 1021,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 569,
+				"target_id": 1067,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 569,
+				"target_id": 1100,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 569,
+				"target_id": 1132,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 569,
+				"target_id": 1145,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 569,
+				"target_id": 1662,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 569,
+				"target_id": 1963,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 569,
+				"target_id": 2028,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 569,
+				"target_id": 2070,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 569,
+				"target_id": 2135,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 571,
+				"target_id": 649,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 571,
+				"target_id": 1224,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 571,
+				"target_id": 1294,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 571,
+				"target_id": 1329,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 571,
+				"target_id": 2135,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 585,
+				"target_id": 649,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 585,
+				"target_id": 1259,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 585,
+				"target_id": 1272,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 585,
+				"target_id": 1875,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 585,
+				"target_id": 2061,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 589,
+				"target_id": 916,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 589,
+				"target_id": 1600,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 620,
+				"target_id": 890,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 620,
+				"target_id": 1021,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 620,
+				"target_id": 1282,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 620,
+				"target_id": 1292,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 620,
+				"target_id": 1561,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 620,
+				"target_id": 1577,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 620,
+				"target_id": 1600,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 620,
+				"target_id": 1662,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 620,
+				"target_id": 1671,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 620,
+				"target_id": 1928,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 620,
+				"target_id": 1991,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 641,
+				"target_id": 649,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 641,
+				"target_id": 1247,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 641,
+				"target_id": 1928,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 641,
+				"target_id": 2070,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 649,
+				"target_id": 667,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 649,
+				"target_id": 675,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 649,
+				"target_id": 702,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 649,
+				"target_id": 715,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 649,
+				"target_id": 877,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 649,
+				"target_id": 890,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 649,
+				"target_id": 996,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 649,
+				"target_id": 1000,
+				"strength": 10.0000
+			},
+			{
+				"source_id": 649,
+				"target_id": 1021,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 649,
+				"target_id": 1061,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 649,
+				"target_id": 1132,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 649,
+				"target_id": 1145,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 649,
+				"target_id": 1199,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 649,
+				"target_id": 1211,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 649,
+				"target_id": 1247,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 649,
+				"target_id": 1294,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 649,
+				"target_id": 1561,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 649,
+				"target_id": 1600,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 649,
+				"target_id": 1662,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 649,
+				"target_id": 1671,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 649,
+				"target_id": 1710,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 649,
+				"target_id": 1740,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 649,
+				"target_id": 1928,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 649,
+				"target_id": 1967,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 649,
+				"target_id": 1991,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 649,
+				"target_id": 1998,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 649,
+				"target_id": 2028,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 649,
+				"target_id": 2070,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 667,
+				"target_id": 702,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 667,
+				"target_id": 1145,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 667,
+				"target_id": 1247,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 667,
+				"target_id": 1623,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 667,
+				"target_id": 1967,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 675,
+				"target_id": 877,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 675,
+				"target_id": 1021,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 675,
+				"target_id": 1084,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 675,
+				"target_id": 1118,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 675,
+				"target_id": 1179,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 675,
+				"target_id": 1259,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 675,
+				"target_id": 1282,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 675,
+				"target_id": 1294,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 675,
+				"target_id": 1347,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 675,
+				"target_id": 1561,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 675,
+				"target_id": 1623,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 675,
+				"target_id": 1671,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 675,
+				"target_id": 1801,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 675,
+				"target_id": 1967,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 696,
+				"target_id": 909,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 696,
+				"target_id": 1157,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 696,
+				"target_id": 1311,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 696,
+				"target_id": 1336,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 696,
+				"target_id": 1561,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 696,
+				"target_id": 1600,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 696,
+				"target_id": 1793,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 696,
+				"target_id": 2033,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 702,
+				"target_id": 730,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 702,
+				"target_id": 742,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 702,
+				"target_id": 1021,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 702,
+				"target_id": 1282,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 702,
+				"target_id": 1294,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 702,
+				"target_id": 1847,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 702,
+				"target_id": 1967,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 715,
+				"target_id": 836,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 715,
+				"target_id": 916,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 715,
+				"target_id": 979,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 715,
+				"target_id": 1084,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 715,
+				"target_id": 1132,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 715,
+				"target_id": 1157,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 715,
+				"target_id": 1211,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 715,
+				"target_id": 1224,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 715,
+				"target_id": 1329,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 715,
+				"target_id": 1928,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 715,
+				"target_id": 1967,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 719,
+				"target_id": 1132,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 719,
+				"target_id": 1247,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 719,
+				"target_id": 1294,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 719,
+				"target_id": 1600,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 730,
+				"target_id": 992,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 730,
+				"target_id": 1021,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 730,
+				"target_id": 1118,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 730,
+				"target_id": 1133,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 730,
+				"target_id": 1282,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 730,
+				"target_id": 1329,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 730,
+				"target_id": 1671,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 730,
+				"target_id": 1785,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 742,
+				"target_id": 877,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 742,
+				"target_id": 1311,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 742,
+				"target_id": 1329,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 742,
+				"target_id": 1561,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 742,
+				"target_id": 1793,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 742,
+				"target_id": 2061,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 778,
+				"target_id": 1224,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 778,
+				"target_id": 1321,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 778,
+				"target_id": 1336,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 794,
+				"target_id": 1179,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 794,
+				"target_id": 1292,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 794,
+				"target_id": 1336,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 794,
+				"target_id": 1384,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 794,
+				"target_id": 1907,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 794,
+				"target_id": 1928,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 813,
+				"target_id": 877,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 813,
+				"target_id": 909,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 813,
+				"target_id": 1118,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 813,
+				"target_id": 1133,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 813,
+				"target_id": 1311,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 836,
+				"target_id": 1021,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 836,
+				"target_id": 1561,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 836,
+				"target_id": 1671,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 836,
+				"target_id": 2028,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 844,
+				"target_id": 1211,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 844,
+				"target_id": 1294,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 877,
+				"target_id": 909,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 877,
+				"target_id": 996,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 877,
+				"target_id": 1021,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 877,
+				"target_id": 1118,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 877,
+				"target_id": 1132,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 877,
+				"target_id": 1133,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 877,
+				"target_id": 1145,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 877,
+				"target_id": 1179,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 877,
+				"target_id": 1199,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 877,
+				"target_id": 1211,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 877,
+				"target_id": 1224,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 877,
+				"target_id": 1259,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 877,
+				"target_id": 1282,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 877,
+				"target_id": 1292,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 877,
+				"target_id": 1294,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 877,
+				"target_id": 1311,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 877,
+				"target_id": 1329,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 877,
+				"target_id": 1336,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 877,
+				"target_id": 1561,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 877,
+				"target_id": 1600,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 877,
+				"target_id": 1671,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 877,
+				"target_id": 1681,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 877,
+				"target_id": 1710,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 877,
+				"target_id": 1793,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 877,
+				"target_id": 1801,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 877,
+				"target_id": 1907,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 877,
+				"target_id": 1928,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 877,
+				"target_id": 1963,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 877,
+				"target_id": 2070,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 890,
+				"target_id": 1009,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 890,
+				"target_id": 1021,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 890,
+				"target_id": 1145,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 890,
+				"target_id": 1247,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 890,
+				"target_id": 1259,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 890,
+				"target_id": 1272,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 890,
+				"target_id": 1311,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 890,
+				"target_id": 1600,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 890,
+				"target_id": 1967,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 890,
+				"target_id": 2033,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 891,
+				"target_id": 909,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 891,
+				"target_id": 916,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 891,
+				"target_id": 1211,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 909,
+				"target_id": 1021,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 909,
+				"target_id": 1118,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 909,
+				"target_id": 1157,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 909,
+				"target_id": 1224,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 909,
+				"target_id": 1294,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 909,
+				"target_id": 1600,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 909,
+				"target_id": 2033,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 916,
+				"target_id": 1211,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 979,
+				"target_id": 1021,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 979,
+				"target_id": 1247,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 979,
+				"target_id": 1259,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 979,
+				"target_id": 1928,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 979,
+				"target_id": 1967,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 979,
+				"target_id": 1991,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 992,
+				"target_id": 1329,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 992,
+				"target_id": 1336,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 996,
+				"target_id": 1132,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 996,
+				"target_id": 1247,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 996,
+				"target_id": 2051,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1000,
+				"target_id": 1021,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 1000,
+				"target_id": 1100,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1000,
+				"target_id": 1145,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1000,
+				"target_id": 1247,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1000,
+				"target_id": 1561,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1000,
+				"target_id": 1577,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1000,
+				"target_id": 1662,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1000,
+				"target_id": 1740,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1000,
+				"target_id": 1801,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1000,
+				"target_id": 1928,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1000,
+				"target_id": 1991,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1000,
+				"target_id": 2070,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1009,
+				"target_id": 1499,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1009,
+				"target_id": 1671,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1009,
+				"target_id": 1681,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1009,
+				"target_id": 1847,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1021,
+				"target_id": 1084,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1021,
+				"target_id": 1100,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1021,
+				"target_id": 1132,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1021,
+				"target_id": 1145,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1021,
+				"target_id": 1211,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1021,
+				"target_id": 1247,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1021,
+				"target_id": 1259,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1021,
+				"target_id": 1282,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1021,
+				"target_id": 1292,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1021,
+				"target_id": 1294,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1021,
+				"target_id": 1499,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1021,
+				"target_id": 1561,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1021,
+				"target_id": 1577,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1021,
+				"target_id": 1600,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1021,
+				"target_id": 1671,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1021,
+				"target_id": 1681,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1021,
+				"target_id": 1740,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1021,
+				"target_id": 1801,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1021,
+				"target_id": 1847,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1021,
+				"target_id": 1875,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1021,
+				"target_id": 1928,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 1021,
+				"target_id": 1967,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1021,
+				"target_id": 2051,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1032,
+				"target_id": 1035,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1032,
+				"target_id": 1067,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1032,
+				"target_id": 1329,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1032,
+				"target_id": 1648,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 1032,
+				"target_id": 1963,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1032,
+				"target_id": 2038,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1035,
+				"target_id": 1090,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1035,
+				"target_id": 1232,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1035,
+				"target_id": 1329,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1035,
+				"target_id": 1393,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1035,
+				"target_id": 1600,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1035,
+				"target_id": 1648,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1035,
+				"target_id": 1963,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1035,
+				"target_id": 2038,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1061,
+				"target_id": 1247,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1061,
+				"target_id": 1623,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1061,
+				"target_id": 1740,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1067,
+				"target_id": 1329,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1067,
+				"target_id": 1963,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 1067,
+				"target_id": 2033,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1084,
+				"target_id": 1157,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1084,
+				"target_id": 1292,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1084,
+				"target_id": 1561,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1084,
+				"target_id": 1623,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1084,
+				"target_id": 1671,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1084,
+				"target_id": 1801,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1084,
+				"target_id": 1967,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1090,
+				"target_id": 1232,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 1090,
+				"target_id": 1393,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 1100,
+				"target_id": 1247,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1100,
+				"target_id": 1662,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1100,
+				"target_id": 1671,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1118,
+				"target_id": 1132,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1118,
+				"target_id": 1282,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1118,
+				"target_id": 1311,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1118,
+				"target_id": 1671,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1132,
+				"target_id": 1211,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1132,
+				"target_id": 1247,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1132,
+				"target_id": 1294,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1132,
+				"target_id": 1928,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1132,
+				"target_id": 1967,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1132,
+				"target_id": 2070,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1133,
+				"target_id": 1247,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1133,
+				"target_id": 1967,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1133,
+				"target_id": 2051,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1145,
+				"target_id": 1247,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1145,
+				"target_id": 1259,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1145,
+				"target_id": 1967,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1145,
+				"target_id": 1991,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1157,
+				"target_id": 1561,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1179,
+				"target_id": 1211,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1179,
+				"target_id": 1259,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1179,
+				"target_id": 1329,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1179,
+				"target_id": 1347,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1179,
+				"target_id": 1875,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1179,
+				"target_id": 1967,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1179,
+				"target_id": 2061,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1199,
+				"target_id": 1907,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1199,
+				"target_id": 1928,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1199,
+				"target_id": 2028,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1211,
+				"target_id": 1247,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1211,
+				"target_id": 1272,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1211,
+				"target_id": 1292,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1211,
+				"target_id": 1294,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1211,
+				"target_id": 1600,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 1211,
+				"target_id": 1967,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1211,
+				"target_id": 2033,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1211,
+				"target_id": 2070,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1224,
+				"target_id": 1311,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1224,
+				"target_id": 1329,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1224,
+				"target_id": 1336,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1224,
+				"target_id": 1600,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1224,
+				"target_id": 1967,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1232,
+				"target_id": 1393,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 1247,
+				"target_id": 1259,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1247,
+				"target_id": 1294,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1247,
+				"target_id": 1347,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1247,
+				"target_id": 1577,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1247,
+				"target_id": 1600,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1247,
+				"target_id": 1623,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1247,
+				"target_id": 1740,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1247,
+				"target_id": 1875,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1247,
+				"target_id": 1928,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1247,
+				"target_id": 1967,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1247,
+				"target_id": 2061,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1247,
+				"target_id": 2070,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1259,
+				"target_id": 1347,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 1259,
+				"target_id": 1967,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1272,
+				"target_id": 1600,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1272,
+				"target_id": 1967,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1272,
+				"target_id": 2033,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1282,
+				"target_id": 1600,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1282,
+				"target_id": 1928,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1292,
+				"target_id": 1600,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1292,
+				"target_id": 1671,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1292,
+				"target_id": 1681,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1292,
+				"target_id": 1740,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1292,
+				"target_id": 1928,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1292,
+				"target_id": 1967,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1292,
+				"target_id": 1991,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1292,
+				"target_id": 2061,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1294,
+				"target_id": 1561,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1294,
+				"target_id": 1671,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1294,
+				"target_id": 1801,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1311,
+				"target_id": 1329,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1311,
+				"target_id": 1336,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 1311,
+				"target_id": 1600,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1311,
+				"target_id": 1671,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1311,
+				"target_id": 1793,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1311,
+				"target_id": 2033,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1329,
+				"target_id": 1561,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1329,
+				"target_id": 1671,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1329,
+				"target_id": 1785,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1336,
+				"target_id": 1793,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1347,
+				"target_id": 1801,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1347,
+				"target_id": 1967,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1499,
+				"target_id": 1561,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1499,
+				"target_id": 1681,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1499,
+				"target_id": 1785,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1499,
+				"target_id": 1847,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1542,
+				"target_id": 1847,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1542,
+				"target_id": 2028,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1561,
+				"target_id": 1623,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1561,
+				"target_id": 1671,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 1561,
+				"target_id": 1681,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1561,
+				"target_id": 1740,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1561,
+				"target_id": 2028,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1561,
+				"target_id": 2135,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1577,
+				"target_id": 1740,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1577,
+				"target_id": 1801,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1577,
+				"target_id": 1847,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1577,
+				"target_id": 2070,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1600,
+				"target_id": 1662,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1600,
+				"target_id": 1967,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1600,
+				"target_id": 2033,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 1600,
+				"target_id": 2038,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1600,
+				"target_id": 2070,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1662,
+				"target_id": 1740,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1662,
+				"target_id": 2051,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1662,
+				"target_id": 2070,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1671,
+				"target_id": 1785,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 1671,
+				"target_id": 1967,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1681,
+				"target_id": 1740,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1681,
+				"target_id": 1785,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1681,
+				"target_id": 1847,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1681,
+				"target_id": 2070,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1710,
+				"target_id": 1963,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1793,
+				"target_id": 1963,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1793,
+				"target_id": 2038,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1801,
+				"target_id": 1928,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1801,
+				"target_id": 2070,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1847,
+				"target_id": 1928,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1875,
+				"target_id": 2061,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 1963,
+				"target_id": 2038,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2051,
+				"target_id": 2070,
+				"strength": 1.0000
+			}
+		]
+	}
+}
